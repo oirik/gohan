@@ -12,4 +12,3 @@ deploy:
   file: "$TRAVIS_BUILD_DIR/dist/*.{tar.gz,zip}"
   on:
     tags: true
- 

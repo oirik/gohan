@@ -1,7 +1,7 @@
 # gohan
 
 [![Build Status](https://travis-ci.org/oirik/gohan.svg?branch=master)](https://travis-ci.org/oirik/gohan)
-[![GitHub release](https://img.shields.io/github/release/oirik/gohan.svg)](RELEASE)
+[![GitHub release](https://img.shields.io/github/release/oirik/gohan.svg)](releases)
 [![apache license](https://img.shields.io/badge/license-Apache-blue.svg)](LICENSE)
 
 http (https) server for both static files and proxy, written by golang.
